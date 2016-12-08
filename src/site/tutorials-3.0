@@ -1,0 +1,9 @@
+1 介绍 Thymeleaf
+
+1.1 什么是 Thymeleaf？
+
+  Thymeleaf 是一个很时髦的服务端 Java 模板引擎，不管是在 web 环境还是独立的环境下。Thymeleaf 拥有处理 HTML, XML, JavaScript, CSS 甚至普通文本的能力。
+
+  Thymeleaf 的主要目标是提供一个简洁（优雅）而且极易维护的模板创建方式。为实现这个目标，thymeleaf 基于自然模板（Natural Templates）的概念将逻辑注入到模板文件中，这种方式完全不影响模板的设计原型。这样提高了设计交流，连通了设计团队和开发团队的间隙。
+
+  Thymeleaf 设计的开始就考虑到了 Web 标准（Web Standards），尤其是 HTML5 ，允许你创建完全有效的 HTML5 模板（如果你需要的话）。 
